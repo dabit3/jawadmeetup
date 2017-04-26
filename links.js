@@ -19,3 +19,5 @@ https://facebook.github.io/reason/
 https://twitter.com/leeb/status/856182760213323777
 
 https://www.reactiflux.com/transcripts/cheng-lou/
+
+https://blog.codinghorror.com/the-principle-of-least-power/#%20
